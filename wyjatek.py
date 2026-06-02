@@ -9,4 +9,5 @@ except ZeroDivisionError:
     print("nie mozna dzielic przez 0")
 finally:
     print("tu bedzie jakas czeszc programu")
+    print("nie mozna dzielic przez 0")
 
